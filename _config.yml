@@ -1,7 +1,7 @@
 name: My Test
 favicon: null
-layout_spectrum: 0.715499306563288
-typography_spectrum: 0.07295526494272053
+layout_spectrum: 0.12614
+typography_spectrum: 0.59381
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.25633943220600486
-  lightness: 0.9822524071205407
-  saturation: 0.5204989109188318
-  rhythmicContrast: 0.23431014851666987
+    - '#010101'
+    - '#ffffff'
+    - '#378aaa'
+    - '#0d5c7d'
+    - '#a9dcef'
+  brandStrength: 0.25
+  lightness: 1
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
